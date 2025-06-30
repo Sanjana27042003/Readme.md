@@ -1,0 +1,11 @@
+#about
+{
+    width:30rem;
+    display:flex;
+    
+}
+#card
+{
+    display:flex;
+    justify-content:space-between;
+}
